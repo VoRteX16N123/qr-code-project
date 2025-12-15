@@ -60,8 +60,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* General Styling */
-
-
 body{
     background-color: var(--clr-background-300);
     font-size: 0.875rem;
@@ -70,7 +68,7 @@ body{
 
     display: grid;
     place-content: center;
-    min-height: 85dvh;
+    min-height: 85vh;
     margin: 1rem;
 }
 
@@ -112,8 +110,6 @@ body{
     
     padding: var(--content-padding);
     width: auto;
-
-
 }
 
 img{
@@ -140,8 +136,6 @@ a:hover{
     left: 0;
     width: 100%;
     margin-bottom: 10px ;
-    height: 20px;
-
 }
     
 .attribution a { 
