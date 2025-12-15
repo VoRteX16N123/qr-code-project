@@ -18,7 +18,6 @@
 }
 /* 2. Remove default margin */
 * {
-  outline: 1px solid red;
   margin: 0;
 }
 /* 3. Enable keyword animations */
@@ -61,13 +60,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* General Styling */
-main{
-  padding-bottom: calc(64px + env(safe-area-inset-bottom));
-}
 
-html, body{
-  height: 100%;
-}
 
 body{
     background-color: var(--clr-background-300);
@@ -91,6 +84,7 @@ body{
     padding: var(--content-padding);
     max-width: 360px;
     overflow: hidden;
+    height: auto;
 }
 
 .product__content{
@@ -147,7 +141,7 @@ a:hover{
     width: 100%;
     margin-bottom: 10px ;
     height: 20px;
-    z-index: 1000;
+
 }
     
 .attribution a { 
