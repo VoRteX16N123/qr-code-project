@@ -19,8 +19,8 @@ Here are two screenshots of my solution: ![](<images/127.0.0.1_5500_index.html (
 
 ### Links
 
-- Solution URL: [](https://github.com/VoRteX16N123/qr-code-project)
-- Live Site URL: [](https://vortex16n123.github.io/qr-code-project/)
+- Solution URL: [(https://github.com/VoRteX16N123/qr-code-project]
+- Live Site URL: [https://vortex16n123.github.io/qr-code-project/]
 
 ## My process
 
