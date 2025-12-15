@@ -60,6 +60,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* General Styling */
+main{
+  padding-bottom: 20px;
+}
+
 body{
     background-color: var(--clr-background-300);
     font-size: 0.875rem;
@@ -140,6 +144,7 @@ a:hover{
     left: 0;
     width: 100%;
     margin-bottom: 10px ;
+    height: 20px
 }
     
 .attribution a { 
